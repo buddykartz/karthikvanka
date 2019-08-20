@@ -1,2 +1,2 @@
-# karthikvanka
-My Personal Website CodeBase
+# Karthik Vanka
+Web Developer / Gadget Lover
